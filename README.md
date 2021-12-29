@@ -17,6 +17,10 @@ Star appreciated!
 [<img src="https://raw.githubusercontent.com/Genvekt/icons/main/for_readme/long_short_chart.png" alt="dudes" style="width: 30px"/> 
 ](https://github.com/Genvekt/icons/blob/main/favicon/trading/long_short_chart.ico)
 
+## Memes
+[<img src="https://raw.githubusercontent.com/Genvekt/icons/main/for_readme/its_wednesday_my_dudes.png" alt="dudes" style="width: 30px"/> 
+](https://github.com/Genvekt/icons/blob/main/favicon/memes/its_wednesday_my_dudes.ico)
+
 ## Character icons
 [<img src="https://raw.githubusercontent.com/Genvekt/icons/main/for_readme/eye_flash.png" alt="dudes" style="width: 30px"/> 
 ](https://github.com/Genvekt/icons/blob/main/favicon/character/eye_flash.ico)
