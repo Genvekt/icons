@@ -1,5 +1,5 @@
 
-#My favicon icons
+# My favicon icons
 Here I collect my favicon icons. Click on image to find icon within repo. Free to use.
 
 Star appreciated!
